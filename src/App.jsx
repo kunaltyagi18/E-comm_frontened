@@ -1,4 +1,4 @@
-import Chart from 'chart.js/auto';
+
 import { useState, useEffect, useRef } from "react";
 import {
   BrowserRouter as Router,
